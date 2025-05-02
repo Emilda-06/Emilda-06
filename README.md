@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web dev projects
 - 📫 How to reach me emilda.mukwenha@students.uz.ac.zw
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I watched all the Pirates of the Carribean Movies and l repeat them at least once a month.
+- ⚡ Fun fact: I thrive at multitasking
 
 <!---
 Emilda-06/Emilda-06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
