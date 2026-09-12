@@ -1,93 +1,71 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:6D28D9,100:22D3EE&height=200&section=header&text=Emilda&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Cloud%20%E2%80%A2%20AI%20%E2%80%A2%20Full-Stack&descSize=18&descAlignY=58&descAlign=50">
+  <img alt="Emilda" src="https://capsule-render.vercel.app/api?type=waving&color=0:E0E7FF,50:C7D2FE,100:A5F3FC&height=200&section=header&text=Emilda&fontSize=64&fontColor=0B0F19&fontAlignY=38&animation=fadeIn&desc=Cloud%20%E2%80%A2%20AI%20%E2%80%A2%20Full-Stack&descSize=18&descAlignY=58&descAlign=50">
+</picture>
+
 <div align="center">
 
-# Hey, I'm Emilda 👋
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&width=600&lines=Cloud+Engineer+in+training+%E2%98%81%EF%B8%8F;AI+%2F+ML+Explorer+%F0%9F%A4%96;Full-Stack+Web+Developer+%F0%9F%92%BB;Turning+ideas+into+shipped+code+%E2%9A%A1" alt="typing-svg" />
 
-### ☁️ Cloud Computing · 🤖 AI / Machine Learning · 💻 Full-Stack Web Development
-
-I'm a developer who loves building things end-to-end — from a clean React front end, down through an API, into infrastructure running in the cloud. Currently deep in **cloud computing** and leveling up my **AI/ML** skills alongside full-stack projects.
-
-<a href="mailto:emilda.mukwenha@students.uz.ac.zw"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Emilda-06"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:emilda.mukwenha@students.uz.ac.zw"><img src="https://img.shields.io/badge/-Email-0B0F19?style=flat-square&logo=gmail&logoColor=A78BFA"/></a>
+<a href="https://github.com/Emilda-06"><img src="https://img.shields.io/badge/-GitHub-0B0F19?style=flat-square&logo=github&logoColor=22D3EE"/></a>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,50:6D28D9,100:22D3EE&height=3" width="100%">
 
-### 🌱 About Me
+### `whoami.js`
 
-- 👀 Interested in **Cloud Computing**, **Artificial Intelligence**, and **Full-Stack Web Development**
-- 🚀 Currently learning cloud platforms & architecture, and sharpening my ML fundamentals
-- 🤝 Open to collaborating on web dev, AI/ML, and cloud projects
-- 💬 Ask me about React, Node.js, Python, or Jupyter-based ML experiments
-- 😄 Pronouns: she/her
+```js
+const emilda = {
+  pronouns: "she/her",
+  role: "Cloud • AI • Full-Stack Developer",
+  focus: ["Cloud Architecture", "Machine Learning", "Modern Web Apps"],
+  currentlyLearning: ["Cloud-native patterns", "MLOps basics"],
+  openTo: ["collaborations", "internships", "open source"],
+  funFact: "thrives on multitasking ⚡",
+};
+```
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,50:6D28D9,100:22D3EE&height=3" width="100%">
 
-### 🛠️ Tech Stack
+### `// cloud & devops`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,githubactions,linux,nginx&theme=dark" />
+</p>
+
+### `// ai & machine learning`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,opencv,r&theme=dark" />
+</p>
+
+### `// full-stack web`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,mongodb,postgres,figma&theme=dark" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,50:6D28D9,100:22D3EE&height=3" width="100%">
+
+### `// stats.json`
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Emilda-06&show_icons=true&hide_border=true&bg_color=0B0F19&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9&border_color=6D28D9&border_radius=10"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emilda-06&layout=compact&hide_border=true&bg_color=0B0F19&title_color=22D3EE&text_color=C9D1D9&border_color=6D28D9&border_radius=10"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Emilda-06&bg_color=0B0F19&color=22D3EE&line=A78BFA&point=ffffff&area=true&hide_border=true&radius=10"/>
 </p>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F19,50:6D28D9,100:22D3EE&height=3" width="100%">
 
-### 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Emilda-06/blufountain-treasurymanagement-web-react">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Emilda-06&repo=blufountain-treasurymanagement-web-react&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/Emilda-06/kmmi-portal">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Emilda-06&repo=kmmi-portal&theme=radical&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Emilda-06/machine-learning">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Emilda-06&repo=machine-learning&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/Emilda-06/EmployeeManagementSystem">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Emilda-06&repo=EmployeeManagementSystem&theme=radical&hide_border=true" />
-  </a>
-</p>
-
-<br/>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Emilda-06&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emilda-06&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Emilda-06&theme=radical&hide_border=true"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <samp>「 Building in the cloud, learning in the open. 」</samp>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:6D28D9,100:22D3EE&height=120&section=footer&text=Thanks%20for%20stopping%20by%20%E2%9C%A8&fontSize=18&fontColor=ffffff&animation=fadeIn">
+  <img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:E0E7FF,50:C7D2FE,100:A5F3FC&height=120&section=footer&text=Thanks%20for%20stopping%20by%20%E2%9C%A8&fontSize=18&fontColor=0B0F19&animation=fadeIn">
+</picture>
 
 <!---
 Emilda-06/Emilda-06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
